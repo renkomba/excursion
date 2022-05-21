@@ -10,6 +10,10 @@ a {
     font-size: 16px;
 }
 
+video {
+    object-fit: contain;
+}
+
 h1 {
     font-weight: normal;
     font-size: 50px;
@@ -20,7 +24,7 @@ h2 {
     font-size: 42px;
 }
 
-#coming-soon p {
+#info p {
     color: grey;
     font-size: 21px;
 }
